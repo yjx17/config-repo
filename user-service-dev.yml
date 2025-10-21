@@ -1,4 +1,5 @@
 server:
   port: 8101
 custom:
-  message: "Hello from Config Server (local)!"
+  message: "Hello from Config Server (github)!"
+
